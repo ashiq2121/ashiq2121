@@ -29,7 +29,7 @@
 
 <h2>Certifications</h2>
 
-- [Certified Ethical Hacker](https://aspen.eccouncil.org/Badge?a=Wa6LXNxmao4qVxlQKox460EFswUETygX3LCPam8Z1Uw=)
+- [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=Wa6LXNxmao4qVxlQKox460EFswUETygX3LCPam8Z1Uw=)
 
 <h2> 🤳 Connect with me:</h2>
 
