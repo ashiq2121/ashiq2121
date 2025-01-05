@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ashiq! <br/> <a href="https://www.linkedin.com/in/muhammad-ashiq-s-249a81186/">Cybersecurity Professional</a>
 
-I am a Cybersecurity Professional that is always looking to learn and upgrade myself. I am passionate about cloud and cloud security related matters. Here are some projects that I have explored!
+<h3>I am a Cybersecurity Professional that is always looking to learn and upgrade myself. I am passionate about cloud and cloud security related matters. Here are some projects that I have explored!</h3>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -20,23 +20,26 @@ I am a Cybersecurity Professional that is always looking to learn and upgrade my
 
 [linkedin]: https://www.linkedin.com/in/muhammad-ashiq-s-249a81186/
 
-[# Project Overview 
+<!--
+# Project Overview
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 |                 |                                       |                 |                 |
-|                 |                                       |                 |                 |]: #
+|                 |                                       |                 |                 |
 
 
-[# Certifications 
+# Certifications 
 List our your certifications and/or link to them. Also include the ones you plan on doing!
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| EC-Council CEH        |                xx/xx/xx                |     [Certified Ethical Hacker](https://aspen.eccouncil.org/Badge?a=Wa6LXNxmao4qVxlQKox460EFswUETygX3LCPam8Z1Uw=)       | ]: #
+| EC-Council CEH        |                xx/xx/xx                |     [Certified Ethical Hacker](https://aspen.eccouncil.org/Badge?a=Wa6LXNxmao4qVxlQKox460EFswUETygX3LCPam8Z1Uw=)       | 
+
+-->
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.]: #
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
