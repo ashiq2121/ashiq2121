@@ -7,8 +7,10 @@
   - <b>Linux</b>
     - [User and Group Creation](https://github.com/ashiq2121/LinuxFilePermissions)
     - [Server Hardening](https://github.com/ashiq2121/LinuxServerHardening)
-  - <b>Python</b>
+<!-- 
+- <b>Python</b>
     - [Automation](https://github.com/ashiq2121/PythonAutomation)
+    -->
 
 <h2>Certifications</h2>
 
