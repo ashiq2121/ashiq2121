@@ -25,15 +25,15 @@ I am a Cybersecurity Professional that is always looking to learn and upgrade my
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 |                 |                                       |                 |                 |
-|                 |                                       |                 |                 |
+|                 |                                       |                 |                 |]: #
 
 
-# Certifications 
+[# Certifications 
 List our your certifications and/or link to them. Also include the ones you plan on doing!
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| EC-Council CEH        |                xx/xx/xx                |     [Certified Ethical Hacker](https://aspen.eccouncil.org/Badge?a=Wa6LXNxmao4qVxlQKox460EFswUETygX3LCPam8Z1Uw=)       | 
+| EC-Council CEH        |                xx/xx/xx                |     [Certified Ethical Hacker](https://aspen.eccouncil.org/Badge?a=Wa6LXNxmao4qVxlQKox460EFswUETygX3LCPam8Z1Uw=)       | ]: #
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.]: #
