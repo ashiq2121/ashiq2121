@@ -3,7 +3,8 @@
 <h3>I am a Cybersecurity Professional that is always looking to learn and upgrade myself. I am passionate about cloud and cloud security related matters. Here are some projects that I have explored!</h3>
 
 <h2>👨‍💻 Projects:</h2>
-
+- <b> Cloud Security</b>
+- [Automated Cloud Incident Response](https://github.com/ashiq2121/Automated-Cloud-Incident-Response)
   - <b>Linux</b>
     - [User and Group Creation](https://github.com/ashiq2121/LinuxFilePermissions)
     - [Server Hardening](https://github.com/ashiq2121/LinuxServerHardening)
