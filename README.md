@@ -18,6 +18,7 @@
 <h2>Certifications</h2>
 
 - [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=Wa6LXNxmao4qVxlQKox460EFswUETygX3LCPam8Z1Uw=)
+- [Certified Cloud Security Engineer](https://aspen.eccouncil.org/Badge?a=tO9K+D19U47mIFfiTyjGOVV0gAmDVZdllmK2i1fQsdA=)
 
 <h2> 🤳 Connect with me:</h2>
 
